@@ -15,7 +15,7 @@ This repository contains my accepted solutions to LeetCode problems. It is inten
 
 ## Progress
 
-Problems Solved: 10+
+Problems Solved: 15+
 
 I plan to regularly update this repository as I learn new concepts and solve more problems.
 
