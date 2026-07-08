@@ -7,6 +7,7 @@ public:
         }
         j.push_back(arr[i]);
         subset(arr,i+1,j,res);
+        
         j.pop_back();
         subset(arr,i+1,j,res);
     }
@@ -16,6 +17,5 @@ public:
         subset(nums,0,temp,result);
 
         return result;
-
     }
 };
