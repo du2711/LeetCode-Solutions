@@ -38,3 +38,19 @@ Problem Name/
 
 https://leetcode.com/du_1127/
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+<!---LeetCode Topics End-->
