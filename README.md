@@ -60,6 +60,7 @@ https://leetcode.com/du_1127/
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/du2711/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/du2711/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/du2711/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/du2711/LeetCode-Solutions/tree/master/0441-arranging-coins) |
@@ -67,6 +68,7 @@ https://leetcode.com/du_1127/
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/du2711/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/du2711/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
