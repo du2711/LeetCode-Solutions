@@ -61,6 +61,7 @@ https://leetcode.com/du_1127/
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/du2711/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/du2711/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/du2711/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/du2711/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Array
@@ -79,4 +80,8 @@ https://leetcode.com/du_1127/
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/du2711/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
