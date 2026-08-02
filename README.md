@@ -63,6 +63,7 @@ https://leetcode.com/du_1127/
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/du2711/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/du2711/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/du2711/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/du2711/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/du2711/LeetCode-Solutions/tree/master/0441-arranging-coins) |
@@ -71,6 +72,7 @@ https://leetcode.com/du_1127/
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/du2711/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/du2711/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/du2711/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/du2711/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -105,5 +107,6 @@ https://leetcode.com/du_1127/
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/du2711/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
