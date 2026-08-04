@@ -4,7 +4,7 @@ This repository contains my accepted solutions to LeetCode problems. It is inten
 
 ## Languages
 
-* C++
+* C++ & C
 
 ## Topics Explored
 
