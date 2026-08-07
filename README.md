@@ -79,6 +79,7 @@ https://leetcode.com/du_1127/
 | [0240-search-a-2d-matrix-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/du2711/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/du2711/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/du2711/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/du2711/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [3731-find-missing-elements](https://github.com/du2711/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -89,6 +90,7 @@ https://leetcode.com/du_1127/
 ## Sorting
 |  |
 | ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/du2711/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/du2711/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Counting
