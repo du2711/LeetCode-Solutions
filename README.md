@@ -48,6 +48,7 @@ https://leetcode.com/du_1127/
 | [0441-arranging-coins](https://github.com/du2711/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/du2711/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/du2711/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [2485-find-the-pivot-integer](https://github.com/du2711/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
@@ -131,4 +132,8 @@ https://leetcode.com/du_1127/
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/du2711/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
