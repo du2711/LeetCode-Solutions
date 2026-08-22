@@ -45,6 +45,7 @@ https://leetcode.com/du_1127/
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/du2711/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/du2711/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/du2711/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/du2711/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/du2711/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -141,4 +142,12 @@ https://leetcode.com/du_1127/
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/du2711/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/du2711/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/du2711/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
