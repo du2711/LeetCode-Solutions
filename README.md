@@ -50,6 +50,7 @@ https://leetcode.com/du_1127/
 | [0441-arranging-coins](https://github.com/du2711/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/du2711/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/du2711/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/du2711/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2485-find-the-pivot-integer](https://github.com/du2711/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -57,11 +58,13 @@ https://leetcode.com/du_1127/
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/du2711/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/du2711/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
@@ -117,6 +120,7 @@ https://leetcode.com/du_1127/
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/du2711/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/du2711/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Divide and Conquer
 |  |
 | ------- |
