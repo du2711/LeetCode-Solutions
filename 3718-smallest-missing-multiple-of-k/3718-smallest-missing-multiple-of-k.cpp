@@ -1,19 +1,18 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        int n=1;
-        while(true){
-            int present=k*n;
-            bool found=false;
-            for(int i=0;i<nums.size();i++){
-                if(present==nums[i]){ 
-                    found=true;
-                    break;
-                }
-            }
-            if(!found) return present;
-            n++;
+        vector<bool> present (101,false);
+
+        for(int i:nums){
+            present[i]=true;
         }
-        return k;
+
+        int val = k;
+        while(val<=100){
+            if(!present[val]) return val;
+            val+=k; 
+        }
+
+        return val;
     }
 };
