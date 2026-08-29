@@ -51,6 +51,7 @@ https://leetcode.com/du_1127/
 | [0509-fibonacci-number](https://github.com/du2711/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/du2711/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/du2711/LeetCode-Solutions/tree/master/1927-sum-game) |
+| [2235-add-two-integers](https://github.com/du2711/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/du2711/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
