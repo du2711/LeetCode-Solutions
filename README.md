@@ -48,6 +48,7 @@ https://leetcode.com/du_1127/
 | [0258-add-digits](https://github.com/du2711/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/du2711/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/du2711/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/du2711/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/du2711/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/du2711/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/du2711/LeetCode-Solutions/tree/master/1927-sum-game) |
