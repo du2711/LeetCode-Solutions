@@ -97,6 +97,7 @@ https://leetcode.com/du_1127/
 | [1539-kth-missing-positive-number](https://github.com/du2711/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/du2711/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/du2711/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/du2711/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/du2711/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/du2711/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -106,6 +107,7 @@ https://leetcode.com/du_1127/
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/du2711/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/du2711/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/du2711/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/du2711/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -147,6 +149,7 @@ https://leetcode.com/du_1127/
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/du2711/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/du2711/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -155,6 +158,7 @@ https://leetcode.com/du_1127/
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/du2711/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
