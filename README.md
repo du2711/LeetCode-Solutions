@@ -62,6 +62,7 @@ https://leetcode.com/du_1127/
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/du2711/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/du2711/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -105,6 +106,7 @@ https://leetcode.com/du_1127/
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/du2711/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/du2711/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/du2711/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -113,6 +115,7 @@ https://leetcode.com/du_1127/
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/du2711/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/du2711/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/du2711/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
