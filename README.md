@@ -90,6 +90,7 @@ https://leetcode.com/du_1127/
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/du2711/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/du2711/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/du2711/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/du2711/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/du2711/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -132,6 +133,7 @@ https://leetcode.com/du_1127/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/du2711/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/du2711/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/du2711/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
@@ -142,6 +144,7 @@ https://leetcode.com/du_1127/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/du2711/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
