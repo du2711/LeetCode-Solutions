@@ -98,6 +98,7 @@ https://leetcode.com/du_1127/
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/du2711/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/du2711/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/du2711/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/du2711/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/du2711/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/du2711/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/du2711/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -163,6 +164,7 @@ https://leetcode.com/du_1127/
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/du2711/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/du2711/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
