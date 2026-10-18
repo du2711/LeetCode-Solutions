@@ -64,12 +64,14 @@ https://leetcode.com/du_1127/
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/du2711/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0680-valid-palindrome-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1927-sum-game](https://github.com/du2711/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1927-sum-game](https://github.com/du2711/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/du2711/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -192,4 +194,8 @@ https://leetcode.com/du_1127/
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/du2711/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/du2711/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
